@@ -1,0 +1,25 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//Css
+@import '/assets/css/custom.css';
+
+@import '/assets/css/theme-blog.css';
+
+@import '/assets/css/theme-elements.css';
+
+@import '/assets/css/theme-shop.css';
+
+@import '/assets/css/theme.css';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
